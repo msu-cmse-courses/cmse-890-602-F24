@@ -5,16 +5,16 @@ Computational workflows are at the heart of scientific research in fields from h
 
 The primary topics covered in this course include:
 
-    Introduction to workflows
-    Git, GitHub and version control
-    Code design and style
-    Testing and documentation
-    Code review
-    Data formats, tables and databases
-    Modular workflows, related software and development
-    Portable workflows and related software
+- Introduction to workflows
+- Git, GitHub and version control
+- Code design and style
+- Testing and documentation
+- Code review
+- Data formats, tables and databases
+- Modular workflows, related software and development
+- Portable workflows and related software
 
 Required skills:
 
-    Be able to use the Unix command line to do basic operations (creating and changing directories, listing their contents, creating, deleting, and moving files, and so forth).
-    Be able to program comfortably in a programming language used for scripting such as Python or R.
+- Be able to use the Unix command line to do basic operations (creating and changing directories, listing their contents, creating, deleting, and moving files, and so forth).
+- Be able to program comfortably in a programming language used for scripting such as Python or R.
